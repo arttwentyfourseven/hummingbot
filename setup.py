@@ -119,7 +119,7 @@ def main():
     setup(name="hummingbot",
           version=version,
           description="Hummingbot",
-          url="https://github.com/hummingbot/hummingbot",
+          url="https://github.com/arttwentyfourseven/hummingbot#btc_markets_candles",
           author="Hummingbot Foundation",
           author_email="dev@hummingbot.org",
           license="Apache 2.0",
